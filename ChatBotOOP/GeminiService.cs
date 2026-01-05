@@ -10,7 +10,7 @@ namespace ChatBotOOP
     public class GeminiService : IChatService
     {
         
-        private string apiKey = "AIzaSyBdAxTt4CcMaCORzSBeZyX8qbuEKcIEA3w";
+        private string apiKey = "Kendi_API_Keyinizi_yazınız!";
 
         
         private string apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent";
